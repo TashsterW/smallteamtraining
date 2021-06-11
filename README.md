@@ -50,6 +50,7 @@ If you wish to participate in the practical then a second screen may be helpful,
     * We will be conducting the practical in [GitLab](https://gitlab.com/), so it will be easier to participate if you make a GitLab account. 
     * However, if you have a strong preference for [GitHub](https://github.com/), you should still be able to follow along.
 * Fork your own version of this [demonstration repository](https://gitlab.com/jenniferc-teu/smallteamgit_bditraining/) and clone a local copy
+    * [Instructions for GitLab](https://gitlab.com/jenniferc-teu/smallteamgit_bditraining/-/blob/master/Instructions/GitLab.md) <img src="/Instructions/Images/Other/GitLab_logo.png" alt="GitLab logo" width="3%"/>
 
 If you have any difficulties with making your account or forking the demo repo, we will be available 10mins before the start of the session to help troubleshoot.
 
