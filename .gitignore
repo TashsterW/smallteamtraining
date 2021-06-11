@@ -1,0 +1,9 @@
+# Ignore binary documents
+**.docx
+**.pptx
+**.pdf
+# Except the installation instructions
+!*/Installation_Git_VSCode.docx
+
+# Ignore the weird temp files when MS docs are open
+~$*
