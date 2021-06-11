@@ -44,6 +44,8 @@ If you wish to participate in the practical then a second screen may be helpful,
 ## Pre-course work:
 
 * Please install Git and VS Code 
+    * [Download instructions here](https://gitlab.com/jenniferc-teu/smallteamgit_bditraining/-/blob/master/Instructions/Installation.docx)
+    * Pro tip: If you install VS Code first, you should have the option to select it as your default editor during the Git installation
 * Make an account on a hosted Git service
     * We will be conducting the practical in [GitLab](https://gitlab.com/), so it will be easier to participate if you make a GitLab account. 
     * However, if you have a strong preference for [GitHub](https://github.com/), you should still be able to follow along.
